@@ -51,4 +51,4 @@ Collect a larger dataset → boosting models like XGBoost/LightGBM may outperfor
 On small datasets (~380 rows), Random Forest is often the most reliable model, balancing bias and variance.
 In this project, Random Forest achieved R² ≈ 0.78 ± 0.07 (cross-validated), making it the best choice.
 
-Image link: 
+Image link: https://github.com/Nisdiya/Student_data_ML_project/tree/main/images
